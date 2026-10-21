@@ -1,2 +1,9 @@
 *.o
 llrec-test
+hw3_tests/
+heap_test
+heap_test.cpp
+stack_test
+stack_test.cpp
+logicsim-exe
+logicsim/logicsim
